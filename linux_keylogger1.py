@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # -*-coding:Latin-1 -*
 
+# Credit to dotweak for the tutorial I followed
+
 import sys
 import re
 import struct
